@@ -13,7 +13,12 @@ export default {
     return {
       cities: [
         {
-          name: "Gemini Flyover",
+          name: "T Nagar",
+          lat: "13.0405",
+          long: "80.2337"
+        },
+        {
+          name: "Gemini Flyover..",
           lat: "13.0308",
           long: "80.1504"
         },
